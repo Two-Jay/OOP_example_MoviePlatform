@@ -1,10 +1,10 @@
-package kr.ft.seoul.MoviePlatform.Movie.Discount.Policy;
+package kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountPolicy;
 
 import java.util.Arrays;
 import java.util.List;
 
 import kr.ft.seoul.MoviePlatform.Money.Money;
-import kr.ft.seoul.MoviePlatform.Movie.Discount.Condition.DiscountCondition;
+import kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountCondition.DiscountCondition;
 import kr.ft.seoul.MoviePlatform.Screening.Screening;
 
 public abstract class DiscountPolicy {

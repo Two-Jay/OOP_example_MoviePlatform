@@ -1,4 +1,4 @@
-package kr.ft.seoul.MoviePlatform.Movie.Discount;
+package kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountCondition;
 
 import kr.ft.seoul.MoviePlatform.Screening.Screening;
 

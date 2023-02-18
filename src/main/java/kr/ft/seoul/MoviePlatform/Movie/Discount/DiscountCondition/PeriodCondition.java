@@ -1,4 +1,4 @@
-package kr.ft.seoul.MoviePlatform.Movie.Discount.Condition;
+package kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountCondition;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;

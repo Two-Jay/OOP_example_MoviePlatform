@@ -1,5 +1,6 @@
 package kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountPolicy;
 
+import kr.ft.seoul.MoviePlatform.Money.Money;
 import kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountCondition.DiscountCondition;
 import kr.ft.seoul.MoviePlatform.Screening.Screening;
 

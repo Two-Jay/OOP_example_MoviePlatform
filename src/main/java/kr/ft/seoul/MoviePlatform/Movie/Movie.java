@@ -4,7 +4,7 @@ import java.time.Duration;
 
 import kr.ft.seoul.MoviePlatform.Screening.Screening;
 import kr.ft.seoul.MoviePlatform.Money.Money;
-import kr.ft.seoul.MoviePlatform.Movie.Discount.Policy.DiscountPolicy;
+import kr.ft.seoul.MoviePlatform.Movie.Discount.DiscountPolicy.DiscountPolicy;
 
 public class Movie {
     private String title;
