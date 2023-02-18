@@ -1,4 +1,4 @@
-package kr.ft.seoul.dps;
+package kr.ft.seoul.MoviePlatform;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
